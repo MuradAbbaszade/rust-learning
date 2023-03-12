@@ -55,5 +55,20 @@ fn main() {
 
     let v:Vec<i32> = (1..5).collect(); // not included 5
 
+    //Strings
+    let name = "Tyler".to_string();
+    let name2 = String::from("Tyler");
+    //to compare string we can use == and !=
 
+
+    //Functions
+    learn_functions("I learn functions");
+    println!("{}",this_function_return_value(5,3));
+}
+fn learn_functions(phrase:&str){
+    println!("{}",phrase);
+}
+//u32 - is unsigned value - it is can't be negative
+fn this_function_return_value(a:u32,b:u32)->u32{
+    a+b
 }
