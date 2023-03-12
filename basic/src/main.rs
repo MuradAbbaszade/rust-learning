@@ -64,11 +64,43 @@ fn main() {
     //Functions
     learn_functions("I learn functions");
     println!("{}",this_function_return_value(5,3));
+
+
+    //Infinite loop :
+    // loop {
+    //  println!("HI");  
+    //}
+    let mut a= 5;
+    'counter:loop{
+        if a==3{
+            break 'counter; //it is using for nested loop
+        }
+        println!("{}",a);
+        a-=1;
+    }
+
+    let mut vec:Vec<i32> = (0..10).collect();
+    for element in vec {
+        println!("{}",element);
+    }
+
 }
+
+
+
 fn learn_functions(phrase:&str){
     println!("{}",phrase);
 }
+
+
+
+
 //u32 - is unsigned value - it is can't be negative
 fn this_function_return_value(a:u32,b:u32)->u32{
-    a+b
+    if a>b{
+        a+b
+    }
+    else{
+        a
+    }
 }
