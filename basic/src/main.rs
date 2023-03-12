@@ -27,5 +27,33 @@ fn main() {
     //Character type
     let character:char = 'a';
     let character2 = 'b';
-    println!("{} {}",character,character2) 
+    println!("{} {}",character,character2); 
+     
+    //Tuples,arrays,vectors
+    let tup = (500,"a",50.0); //tuples
+    println!("{}",tup.0); 
+    let (x,y,z) = tup;
+    println!("{} {} {}",x,y,z);
+    
+    //Arrays (Elements can be different type in tuples but elements must be same type in arrays)
+    let mut array:[i32;3]=[1,2,3];
+    let mut array2 =[3,4,5];
+    println!("{}",array[0]);
+    println!("{:?}",array); //all elements of the array
+
+    //Vector (List)
+    let mut nums = vec![1,2,3];
+    nums.push(5);
+    // nums.pop() is delete the last element from the vectors
+    println!("{:?}",nums); 
+
+    let mut vec = Vec::new(); //empty vector
+    vec.push("salam");
+    vec.push("sa");
+
+    let mut vec2 = Vec::<i32>::with_capacity(3); //empty vector with size 3 and it stores 32 bit integer values
+
+    let v:Vec<i32> = (1..5).collect(); // not included 5
+
+
 }
