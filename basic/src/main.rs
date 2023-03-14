@@ -91,22 +91,27 @@ fn main() {
 // fn learn_functions(phrase:&str){
 //     println!("{}",phrase);
 
-let val1 = 2;
-let val2 = 5;
-let ans = val1%val2;
-println!("{}",ans);
+// let val1 = 2;
+// let val2 = 5;
+// let ans = val1%val2;
+// println!("{}",ans);
 
-let mut vec:Vec<i32> = vec![2,4,6,8,10];
-println!("{:?}",vec);
-vec.pop();
-vec.push(12);
-println!("{:?}",vec);
-concat_string("Hello".to_string());
-control_flow(5);
+// let mut vec:Vec<i32> = vec![2,4,6,8,10];
+// println!("{:?}",vec);
+// vec.pop();
+// vec.push(12);
+// println!("{:?}",vec);
+// concat_string("Hello".to_string());
+// control_flow(5);
 
 // Move
 let a="Hello".to_string();
 let b=a;
+println!("{}",b);
+
+// Clone - is very expensive
+let a = "Hello".to_string();
+let b = a.clone();
 println!("{}",a);
 }
 
