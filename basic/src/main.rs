@@ -104,16 +104,40 @@ fn main() {
 // concat_string("Hello".to_string());
 // control_flow(5);
 
-// Move
-let a="Hello".to_string();
-let b=a;
-println!("{}",b);
+// // Move
+// let a="Hello".to_string();
+// let b=a;
+// println!("{}",b);
 
-// Clone - is very expensive
-let a = "Hello".to_string();
-let b = a.clone();
-println!("{}",a);
+// // Clone - is very expensive
+// let a = "Hello".to_string();
+// let b = a.clone();
+// println!("{}",a);
+
+// let mut vec = vec![1,3,5,7];
+// example(&vec);
+// vec.push(15);
+// println!("{:?}",vec);
+
+let mut a=5;
+add_two(&mut a);
+print!("{}",a); 
+
 }
+fn add_two(a:&mut i8){
+    *a=*a+2;
+}
+
+
+
+
+
+// fn example(vec:&Vec<i32>)->bool{
+//     if vec[0]==1{
+//         return true;
+//     }
+//     return false;
+// }
 
 // fn concat_string(phrase:String)->String{
 //     println!("{} World",phrase);
