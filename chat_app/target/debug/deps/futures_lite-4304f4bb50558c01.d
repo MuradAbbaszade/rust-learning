@@ -1,0 +1,11 @@
+C:\Users\roma-cervice\rust-learning\chat_app\target\debug\deps\futures_lite-4304f4bb50558c01.rmeta: C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\lib.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\future.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\prelude.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\stream.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\io.rs
+
+C:\Users\roma-cervice\rust-learning\chat_app\target\debug\deps\libfutures_lite-4304f4bb50558c01.rlib: C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\lib.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\future.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\prelude.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\stream.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\io.rs
+
+C:\Users\roma-cervice\rust-learning\chat_app\target\debug\deps\futures_lite-4304f4bb50558c01.d: C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\lib.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\future.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\prelude.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\stream.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\io.rs
+
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\lib.rs:
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\future.rs:
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\prelude.rs:
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\stream.rs:
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\futures-lite-1.12.0\src\io.rs:

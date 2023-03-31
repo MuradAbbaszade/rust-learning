@@ -1,0 +1,11 @@
+C:\Users\roma-cervice\rust-learning\concurrency\target\debug\deps\socket2-ba4ff1c369570451.rmeta: C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\lib.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\sockaddr.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\socket.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\sockref.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\sys\windows.rs
+
+C:\Users\roma-cervice\rust-learning\concurrency\target\debug\deps\libsocket2-ba4ff1c369570451.rlib: C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\lib.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\sockaddr.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\socket.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\sockref.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\sys\windows.rs
+
+C:\Users\roma-cervice\rust-learning\concurrency\target\debug\deps\socket2-ba4ff1c369570451.d: C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\lib.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\sockaddr.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\socket.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\sockref.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\sys\windows.rs
+
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\lib.rs:
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\sockaddr.rs:
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\socket.rs:
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\sockref.rs:
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\socket2-0.4.9\src\sys\windows.rs:

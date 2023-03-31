@@ -1,0 +1,11 @@
+C:\Users\roma-cervice\rust-learning\chat_app\target\debug\deps\polling-f6996bb4150d2bac.rmeta: C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\lib.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\os.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\iocp\mod.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\iocp\afd.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\iocp\port.rs
+
+C:\Users\roma-cervice\rust-learning\chat_app\target\debug\deps\libpolling-f6996bb4150d2bac.rlib: C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\lib.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\os.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\iocp\mod.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\iocp\afd.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\iocp\port.rs
+
+C:\Users\roma-cervice\rust-learning\chat_app\target\debug\deps\polling-f6996bb4150d2bac.d: C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\lib.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\os.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\iocp\mod.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\iocp\afd.rs C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\iocp\port.rs
+
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\lib.rs:
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\os.rs:
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\iocp\mod.rs:
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\iocp\afd.rs:
+C:\Users\roma-cervice\.cargo\registry\src\github.com-1285ae84e5963aae\polling-2.6.0\src\iocp\port.rs:
