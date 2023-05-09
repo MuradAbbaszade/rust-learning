@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>XSS</title>
+</head>
+<body>
+	<h1>Giriş</h1>
+	<label for="ad">Adınız:</label>
+	<input type="text" id="ad" name="ad"><br><br>
+	<button onclick="show()">Show</button>
+
+	<script>
+		function show() {
+			var ad = document.getElementById("ad").value;
+			var node = document.createElement("h2");
+			var textnode = document.createTextNode("Salam, " + ad + "!");
+			node.appendChild(textnode);
+			document.getElementById("result").appendChild(node);
+		}
+	</script>
+
+	<div id="result"></div>
+</body>
+</html>
