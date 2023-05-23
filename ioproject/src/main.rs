@@ -11,4 +11,8 @@ fn main() {
         println!("An error occured : {}",e);
         process::exit(1);
     };
+    // ioproject::run(config).unwrap_or_else(|e|{
+    //     println!("An error occured : {}",e);
+    //     process::exit(1);
+    // });
 }
